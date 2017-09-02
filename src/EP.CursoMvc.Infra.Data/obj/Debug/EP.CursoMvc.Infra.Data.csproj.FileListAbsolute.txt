@@ -1,0 +1,16 @@
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Infra.Data.dll.config
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Infra.Data.dll
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Infra.Data.pdb
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Infra.Data\bin\Debug\Dapper.dll
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Infra.Data\bin\Debug\DomainValidation.dll
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.dll
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Domain.dll
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Domain.pdb
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Infra.Data\bin\Debug\Dapper.xml
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.xml
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.csprojResolveAssemblyReference.cache
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.csproj.CoreCompileInputs.cache
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.dll
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.pdb

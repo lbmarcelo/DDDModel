@@ -1,0 +1,7 @@
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Domain\bin\Debug\EP.CursoMvc.Domain.dll
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Domain\bin\Debug\EP.CursoMvc.Domain.pdb
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Domain\bin\Debug\DomainValidation.dll
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.csprojResolveAssemblyReference.cache
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.csproj.CoreCompileInputs.cache
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.dll
+D:\CursoMvcMaio17_Avancado_II\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.pdb
